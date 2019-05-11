@@ -9,4 +9,3 @@ board = [" "," "," "," "," "," "," "," "," ",]
 input = gets.strip
 pos = input_to_index(input)
 
-move(board, pos, char)
